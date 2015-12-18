@@ -1,7 +1,7 @@
 name: Hanny
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.57142
+layout_spectrum: 0.24738
+typography_spectrum: 0.86685
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#6d0000'
+    - '#c1baa5'
+    - '#060500'
+    - '#a48964'
+    - '#9b4900'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.5
 purpose: []
