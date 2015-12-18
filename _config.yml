@@ -1,7 +1,7 @@
 name: Hanny
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.09291
+typography_spectrum: 0.57142
 cta:
   domain: null
   bucket: null
@@ -21,7 +21,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
-  brandStrength: 0
+  brandStrength: 0.5
   lightness: 0.25
   saturation: 0.125
   rhythmicContrast: 0.25
