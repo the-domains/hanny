@@ -1,6 +1,6 @@
 name: Hanny
 favicon: null
-layout_spectrum: 0.66398
+layout_spectrum: 0.8514
 typography_spectrum: 0.36413
 title: Every step gets us closer to a polio-free world
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b4b3ae'
     - '#5a5450'
     - '#ee7570'
-  brandStrength: 0.1875
+  brandStrength: 0
   lightness: 0.5
   saturation: 0.5
   rhythmicContrast: 0.25
