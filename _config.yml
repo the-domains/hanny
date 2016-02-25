@@ -1,29 +1,41 @@
-name: Hanny
-favicon: null
-layout_spectrum: 0.73998
-typography_spectrum: 0.82196
 title: Every step gets us closer to a polio-free world
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0
+  lightness: 0.5
   brandColors:
     - '#16110e'
     - '#63726d'
     - '#fb80ae'
     - '#bd4455'
     - '#e0e4e4'
-  brandStrength: 0.1875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0
-purpose: []
+  rhythmicContrast: 0.2007169
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Hanny
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.9229391
+layout_spectrum: 0.73998
